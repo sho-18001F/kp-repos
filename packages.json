@@ -2,13 +2,13 @@
   "kp-repos": [
     {
       "version": "1.0",
-      "path": "https://githubusercontent.com/sho-18001F/kp-repos/main/packages.json"
+      "path": "https://raw.githubusercontent.com/sho-18001F/kp-repos/main/packages.json"
     }
   ],
   "daisougen": [
     {
       "version": "1.0",
-      "path": "https://githubusercontent.com/GT86-Love/Daisougen/main"
+      "path": "https://github.com/GT86-Love/Daisougen/main"
     }
   ]  
 }
