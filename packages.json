@@ -1,7 +1,8 @@
 {
-  "kp-repos":
-    [
-      "version" : "1.0"
-      "path" : "https://githubusercontent.com/sho-18001F/kp-repos/packages.json"
-    ]
+  "kp-repos": [
+    {
+      "version": "1.0",
+      "path": "https://githubusercontent.com"
+    }
+  ]
 }
